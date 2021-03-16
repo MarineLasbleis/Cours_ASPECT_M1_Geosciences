@@ -10,4 +10,4 @@ Fourni:
 - notebook jupyter pour le traitement des données.
 
 
-![Convection dans une boite 2D](./sources_latex/fig/screen_Ra1e4.png)  ![Convection dans une boite 2D](./sources_latex/fig/screen_Ra3e6.png)
+![Convection dans une boite 2D](./sources_latex/fig/screen_Ra1e4.png| width=100)  ![Convection dans une boite 2D](./sources_latex/fig/screen_Ra3e6.png| width=100)
