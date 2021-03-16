@@ -8,3 +8,6 @@ Fourni:
 - slides du cours (avec sources et images LaTeX)
 - fichiers de paramètres pour explorer différentes valeurs du nombre de Rayleigh (10^2 à 10^7)
 - notebook jupyter pour le traitement des données.
+
+
+![Convection dans une boite 2D](./source_latex/fig/screen_Ra3e6.png)
