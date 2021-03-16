@@ -1,6 +1,6 @@
 # Cours_ASPECT_M1_Geosciences
 
-Cours/TPs pour M1 Geosciences pour découvrir le code ASPECT pour la convection mantellique.
+Cours/TPs pour M1 Geosciences pour découvrir le code ASPECT pour la convection mantellique. (~2h30 + projet en groupes)
 
 Le TP a été fait à l'Université de Nantes (2019, 2021), avec ASPECT v.2.0, installé sur des machines Ubuntu 16.04. 
 
