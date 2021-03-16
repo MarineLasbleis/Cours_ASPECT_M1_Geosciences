@@ -9,4 +9,9 @@ Fourni:
 - fichiers de paramètres pour explorer différentes valeurs du nombre de Rayleigh (10^2 à 10^7)
 - notebook jupyter pour le traitement des données.
 
+
 <img src="./sources_latex/fig/screen_Ra1e4.png" width="300"> <img src="./sources_latex/fig/screen_Ra3e6.png" width="300">
+
+ASPECT (Advanced Solver for Problems in Earth's ConvecTion) https://aspect.geodynamics.org/
+
+Lien vers le code source : https://github.com/geodynamics/aspect
