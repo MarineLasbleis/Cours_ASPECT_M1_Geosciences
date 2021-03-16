@@ -9,7 +9,7 @@ Fourni:
 - fichiers de paramètres pour explorer différentes valeurs du nombre de Rayleigh (10^2 à 10^7)
 - notebook jupyter pour le traitement des données.
 
-<img src="./sources_latex/fig/screen_Ra1e4.png" width="48">
+<img src="./sources_latex/fig/screen_Ra1e4.png" width="200"> <img src="./sources_latex/fig/screen_Ra1e4.png" width="200">
 
 
 ![Convection dans une boite 2D](./sources_latex/fig/screen_Ra1e4.png | width=100)  ![Convection dans une boite 2D](./sources_latex/fig/screen_Ra3e6.png | width=100)
